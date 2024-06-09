@@ -2,9 +2,9 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { CurrentlyAttendingType } from '../models/learning-app/currently-attending-type';
-import { PopularLecturersType } from '../models/learning-app/popular-lecturers-type';
 import { AllCoursesType } from '../models/learning-app/all-courses-type';
 import { CategoriesType } from '../models/learning-app/categories-type';
+import { PopularLecturersType } from '../models/learning-app/popular-lecturers-type';
 
 @Injectable({
   providedIn: 'root'

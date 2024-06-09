@@ -3,7 +3,7 @@ import { FormsModule } from '@angular/forms';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
 
-import { IGX_LIST_DIRECTIVES, IgcFormsModule, IGX_CHIPS_DIRECTIVES, IgxAvatarComponent, IgxIconComponent, IGX_ACCORDION_DIRECTIVES, IGX_EXPANSION_PANEL_DIRECTIVES } from '@infragistics/igniteui-angular';
+import { IGX_LIST_DIRECTIVES, IgcFormsModule, IGX_CHIPS_DIRECTIVES, IgxAvatarComponent, IgxIconComponent, IGX_ACCORDION_DIRECTIVES, IGX_EXPANSION_PANEL_DIRECTIVES } from 'igniteui-angular';
 import { CoursesComponent } from './courses.component';
 
 describe('CoursesComponent', () => {
